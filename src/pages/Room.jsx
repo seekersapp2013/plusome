@@ -86,7 +86,7 @@ const Room = () => {
 
   return (
     <main className="container">
-        <Header/>
+        <h1>Chat Room</h1>
         <div className="room--container">
 
         <form id="message--form" onSubmit={handleSubmit}>
