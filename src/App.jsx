@@ -2,7 +2,7 @@ import './App.css'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 import PrivateRoutes from './utils/PrivateRoutes'
-import Room from './pages/room.jsx'
+import Room from './pages/Room.jsx'
 import LoginPage from './pages/LoginPage.jsx'
 import RegisterPage from './pages/RegisterPage.jsx'
 import { AuthProvider } from './utils/AuthContext.jsx'
