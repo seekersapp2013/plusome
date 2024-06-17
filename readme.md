@@ -64,26 +64,26 @@ NB: you can also create your own account at https://plusome2.netlify.app then cl
 
 To sign up visit https://plusome2.netlify.app then click on the Register link below the pink Login button.
 
-Then input the following information username, email, passowrd and confirm passowrd
+Then input the following information username, email, password and confirm password.
 
 Then click on the pink Register button. 
 
 NB: Please note that you will not be able to verify your email address (Notification - Todo Feature) 
 
-NB: Please note that you will not get a notification after registering, so just visit the login link then input your credentials to login.  (Email Verification - Todo Feature)
+NB: Please note that you will not get a notification after registering, so just visit the login link then input your credentials to Login.  (Email Verification - Todo Feature)
 
 # Chat Room
 
 After every successful Login, you will be redirected to the chat room page. Where you can see the messages posted by everyone in the room. Also, where you can post your own message. 
 
-To Post a Message, input a message into the "Say Something..." input firled then click on the Send button.
+To Post a Message, input a message into the "Say Something..." textarea then click on the Send button.
 
-NB: you will not get a notification of message being posted, so please refrsh the page after posting to see it on the list of messages. (Post Notification then Refresh - Todo Feature)
+NB: you will not get a notification of Message being posted, so please refresh the page after posting to see it on the list of messages. (Post Notification then Refresh - Todo Feature)
 
 # Deleting A Post
 
 To delete a post, you will find a delete icon next to any message you post click on that button and you post will be deleted. 
 
-NB: please note that you will not get a notification prompting you and your post will be automatically delted. Also, ensure to refresh your browser after this action. 
+NB: please note that you will not get a notification prompting you and your post will be automatically deleted. Also, ensure to refresh your browser after this action. 
 
 NB: You can only delete a message you posted. You cannot delete a message posted by another user. 
