@@ -62,7 +62,7 @@ NB: you can also create your own account at https://plusome2.netlify.app then cl
 
 # Sign Up
 
-To sign up visit https://plusome2.netlify.app tjem c;ocl pm the Register link below the pink Login button.
+To sign up visit https://plusome2.netlify.app then click on the Register link below the pink Login button.
 
 Then input the following information username, email, passowrd and confirm passowrd
 
@@ -85,3 +85,5 @@ NB: you will not get a notification of message being posted, so please refrsh th
 To delete a post, you will find a delete icon next to any message you post click on that button and you post will be deleted. 
 
 NB: please note that you will not get a notification prompting you and your post will be automatically delted. Also, ensure to refresh your browser after this action. 
+
+NB: You can only delete a message you posted. You cannot delete a message posted by another user. 
